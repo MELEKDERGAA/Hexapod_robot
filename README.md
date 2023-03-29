@@ -1,5 +1,5 @@
 # Hexapod_robot
-this is a hexapod project which been developed by me and my friend 
+this is a hexapod project which been developed by me and my friend \n
 #CAD
 the cad file contain all part of the hexapod 
 and we created the cad with SOLIDWORKS
